@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="96693" started-at="2019-01-16T16:57:53Z" finished-at="2019-01-16T16:59:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="96693" started-at="2019-01-16T16:57:53Z" finished-at="2019-01-16T16:59:30Z">
+      <class name="SeleniumPractice.SeleniumPractice.BrokenLinks">
+        <test-method status="PASS" signature="setup()[pri:0, instance:SeleniumPractice.SeleniumPractice.BrokenLinks@e25b2fe]" name="setup" is-config="true" duration-ms="13649" started-at="2019-01-16T22:27:53Z" finished-at="2019-01-16T22:28:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TestBrokenLinks()[pri:0, instance:SeleniumPractice.SeleniumPractice.BrokenLinks@e25b2fe]" name="TestBrokenLinks" duration-ms="82017" started-at="2019-01-16T22:28:07Z" finished-at="2019-01-16T22:29:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestBrokenLinks -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:SeleniumPractice.SeleniumPractice.BrokenLinks@e25b2fe]" name="teardown" is-config="true" duration-ms="969" started-at="2019-01-16T22:29:29Z" finished-at="2019-01-16T22:29:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- SeleniumPractice.SeleniumPractice.BrokenLinks -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
